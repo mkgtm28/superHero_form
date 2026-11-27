@@ -13,7 +13,7 @@ async function submitHero(prevState, formData) {
   }
 
   return {
-    message: `Congratulations ${heroName}! Your application has been submitted successfully.`,
+    message: `Congratulations ${heroName}! Your application has been submitted successfully.👍`,
   };
 }
 
